@@ -65,8 +65,8 @@ spring:
   profiles: verb
   application:
     name: lab-4-verb
-words: ran,knew,had,saw,bought
-# words: touched,cougth,got,ran,jumped
+# words: ran,knew,had,saw,bought
+words: touched,cougth,got,ran,jumped
 
 ---
 spring:
@@ -80,8 +80,8 @@ spring:
   profiles: adjective
   application:
     name: lab-4-adjective
-words: reasonable,leaky,suspicious,ordinary,unlikely
-# words: unbeliavable,big,magnifficient,terrible,lovely
+# words: reasonable,leaky,suspicious,ordinary,unlikely
+words: unbeliavable,big,magnifficient,terrible,lovely
 
 ---
 spring:
